@@ -2,17 +2,9 @@
 
 <img src="images/home.png">
 
-# :dart: Indice
-
-- [Sobre](#-sobre)
-- [Baixar e executar o projeto](#-baixar-e-executar-o-projeto)
-- [Tecnologias utilizadas](-tecnologias-utilizadas)
-
-## 🔖&nbsp; Sobre
+## 🔖 Sobre
 
 Plataforma de estudo para conexão entre professores e alunos desenvolvido durante a Next Level Week 2, da <a target="_blank" href="https://rocketseat.com.br">Rocketseat.
-
----
 
 ---
 
@@ -39,9 +31,7 @@ Plataforma de estudo para conexão entre professores e alunos desenvolvido duran
 
 ---
 
----
-
-## :hammer_and_wrench: Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - NodeJs
 - Typescript
